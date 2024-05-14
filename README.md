@@ -1,7 +1,6 @@
 Welcome to our project Library Management System using MySQL and PHP.
 
-Key Features:
-1.Register & Login 2.Dashboard 3.Add Book  4.All Book information 5.Issuing Books and their Information
+Key Features: 1.Register & Login 2.Dashboard 3.Add Book 4.All Book information 5.Issuing Books and their Information
 
 Instructions:
 
@@ -9,15 +8,11 @@ Instructions:
 
 2. Start Apache and MySQL.
 
-3. Past those file in to htdocs(any folder)
+3. Copy those file of library management system source code in This PC-> Local Disk(C:)->xampp->htdocs->Library Management System
 
-4. Database Configuration Open phpmyadmin
+4. Copy those file of library management system Database and Table folder's lms folder in This PC-> Local Disk(C:)->xampp->mysql->data
 
-5. Create Database named "lms"
-  
-6. Import our given database (from the database folder)
-
-7. Now you are live in: http:// localhost/Folder Name
+5. Now you are live in: http://localhost/library management system/
 
 Team Member:
 
@@ -27,8 +22,7 @@ Team Instructor:
 
 A.K.Z Rasel Rahman
 
-Lecturer, 
+Lecturer,
 
 Dept. of CSE, NWU
 
-Any further information please contact with me with this link: https://www.facebook.com/mehedihasanrana68
