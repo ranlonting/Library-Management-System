@@ -1,7 +1,7 @@
 Welcome to our project Library Management System using MySQL and PHP.
 
 Key Features:
-1.Register & Login 2.Dashboard 3.Add Book  4.All Book information 5.Issued Book's Detail
+1.Register & Login 2.Dashboard 3.Add Book  4.All Book information 5.Issuing Books and their Information
 
 Instructions:
 
@@ -21,7 +21,7 @@ Now you are live in: http:// localhost/Folder Name
 
 Team Member:
 
-1.Mehedi Hasan Rana 2.Dipu Bairagi 3,Jubayer Islam SIam
+1.Mehedi Hasan Rana 2.Dipu Bairagi 33.Jubayer Islam SIam
 
 Team Instructor:
 
