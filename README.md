@@ -5,19 +5,19 @@ Key Features:
 
 Instructions:
 
-Install any software to make your pc as local server. (Xampp)
+1. Install any software to make your pc as local server. (Xampp)
 
-Start Apache and MySQL.
+2. Start Apache and MySQL.
 
-Past those file in to htdocs(any folder)
+3. Past those file in to htdocs(any folder)
 
-Database Configuration Open phpmyadmin
+4. Database Configuration Open phpmyadmin
 
-Create Database named "lms"
+5. Create Database named "lms"
 
-import our given database (from the database folder)
+6.Import our given database (from the database folder)
 
-Now you are live in: http:// localhost/Folder Name
+7. Now you are live in: http:// localhost/Folder Name
 
 Team Member:
 
