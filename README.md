@@ -15,7 +15,7 @@ Instructions:
 
 5. Create Database named "lms"
   
-6.Import our given database (from the database folder)
+6. Import our given database (from the database folder)
 
 7. Now you are live in: http:// localhost/Folder Name
 
