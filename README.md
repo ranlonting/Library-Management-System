@@ -5,7 +5,6 @@ Key Features:
 
 Instructions:
 Install any software to make your pc as local server. (Xampp)
-
 Start Apache and MySQL.
 Past those file in to htdocs(any folder)
 Database Configuration Open phpmyadmin
