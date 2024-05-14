@@ -12,7 +12,7 @@ Instructions:
 
 4. Copy lms folder in This PC-> Local Disk(C:)->xampp->mysql->data
 
-5. Now you are live in: http://localhost/library management system/
+5. Now you are live in: http://localhost/library%20management%20system/
 
 Team Member:
 
